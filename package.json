@@ -1,0 +1,34 @@
+{
+  "name": "canvacord",
+  "version": "5.0.0",
+  "description": "Simple package for image manipulation using canvas.",
+  "main": "canvacord.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Snowflake107/Canvacord.git"
+  },
+  "keywords": [
+    "canvacord",
+    "canvas",
+    "image",
+    "manipulation",
+    "memes",
+    "rank",
+    "card",
+    "rank-card",
+    "discord"
+  ],
+  "author": "Snowflake107",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Snowflake107/Canvacord/issues"
+  },
+  "homepage": "https://canvacord.js.org",
+  "dependencies": {
+    "canvas": "^2.6.1",
+    "gifencoder": "^2.0.1"
+  }
+}
